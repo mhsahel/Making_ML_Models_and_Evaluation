@@ -5,4 +5,4 @@ I used the sckite learn PolynomialFeatures class to fit and transform  the model
 I also understand that when the data are distributed by linearly by curved shape we should use PolynomialFeatures for fit the data at right way
 
 # OlS(ordinary list squared) method of calculate linear regression
-i used ols method to see how the model performance without using gradient descent 
+I used ols method to see how the model performance without using gradient descent 
